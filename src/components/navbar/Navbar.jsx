@@ -21,7 +21,7 @@ const Navbar = () => {
       <Link style={{ textDecoration: "none" }} to="/">
         <div className="nav-logo">
           <img src={logo} alt="logo" />
-          <p>SHOPPER</p>
+          <p>Killua</p>
         </div>
       </Link>
       <img
