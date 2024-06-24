@@ -40,7 +40,7 @@ const Footer = () => {
               rel="noreferrer"
               href="https://github.com/ridwan4496"
             >
-              ridwan4496
+              Ridwan Hossain
             </a>
           </span>
         </p>
